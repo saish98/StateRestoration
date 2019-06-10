@@ -19,7 +19,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img" translatesAutoresizingMaskIntoConstraints="NO" id="JdK-It-4eF">
-                                <rect key="frame" x="60" y="108" width="294" height="294"/>
+                                <rect key="frame" x="60" y="108" width="294" height="294.00000000000011"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="JdK-It-4eF" secondAttribute="height" multiplier="1:1" id="Btu-w0-RqR"/>
                                 </constraints>
@@ -118,7 +118,7 @@
         <!--Navigation Controller-->
         <scene sceneID="cBW-Fb-Zns">
             <objects>
-                <navigationController storyboardIdentifier="NavC" automaticallyAdjustsScrollViewInsets="NO" useStoryboardIdentifierAsRestorationIdentifier="YES" id="uUW-HU-6OO" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="NavScene" automaticallyAdjustsScrollViewInsets="NO" useStoryboardIdentifierAsRestorationIdentifier="YES" id="uUW-HU-6OO" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="R0z-Kc-BFB">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
